@@ -1,6 +1,10 @@
 # Atividade-01
-html - Básico. \n
-css - Básico. \n
-JavaScript - Básico. \n 
-Framework css (Bootstrap) - Básico. \n 
+html - Básico.
+
+css - Básico.
+
+JavaScript - Básico. 
+
+Framework css (Bootstrap) - Básico. 
+
 Api - zero conheceimento.
